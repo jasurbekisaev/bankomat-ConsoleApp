@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bankomat 3 tilda", "bankomat 3 tilda.csproj", "{EEF2FE17-A449-4E94-AA67-CABDADA886BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF2FE17-A449-4E94-AA67-CABDADA886BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF2FE17-A449-4E94-AA67-CABDADA886BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF2FE17-A449-4E94-AA67-CABDADA886BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF2FE17-A449-4E94-AA67-CABDADA886BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B862C5F8-0034-42B7-BFBB-23DD8FA4C7CF}
+	EndGlobalSection
+EndGlobal
